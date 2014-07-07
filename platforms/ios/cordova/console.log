@@ -1,0 +1,25 @@
+2014-05-29 17:50:19.025 shnurple App[1646:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-29 17:50:19.083 shnurple App[1646:70b] Unlimited access to network resources
+2014-05-29 17:50:20.399 shnurple App[1646:70b] [CDVTimer][keyboard] 0.082970ms
+2014-05-29 17:50:20.399 shnurple App[1646:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-29 17:50:20.400 shnurple App[1646:70b] [CDVTimer][statusbar] 0.550985ms
+2014-05-29 17:50:20.400 shnurple App[1646:70b] [CDVTimer][TotalPluginStartup] 1.744032ms
+2014-05-29 17:50:20.705 shnurple App[1646:70b] Resetting plugins due to page load.
+2014-05-29 17:50:21.183 shnurple App[1646:70b] Finished load of: file:///Users/arvindravulavaru/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E9BD69FF-847D-423E-9179-1429D6E02290/shnurple%20App.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-07-07 13:13:04.826 shnurple App[8697:c07] Multi-tasking -> Device: YES, App: YES
+2014-07-07 13:13:04.848 shnurple App[8697:c07] Unlimited access to network resources
+2014-07-07 13:13:04.982 shnurple App[8697:c07] [CDVTimer][keyboard] 0.086963ms
+2014-07-07 13:13:04.983 shnurple App[8697:c07] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-07 13:13:04.983 shnurple App[8697:c07] [CDVTimer][statusbar] 0.406981ms
+2014-07-07 13:13:04.983 shnurple App[8697:c07] [CDVTimer][TotalPluginStartup] 1.554012ms
+2014-07-07 13:13:05.053 shnurple App[8697:c07] Resetting plugins due to page load.
+2014-07-07 13:13:05.679 shnurple App[8697:c07] Finished load of: file:///Users/ericlevin/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/7A511704-4D08-4ADA-B1F5-BC994D193BD1/shnurple%20App.app/www/index.html#/auth/signin
+2014-07-07 14:00:55.449 shnurple App[9365:c07] Multi-tasking -> Device: YES, App: YES
+2014-07-07 14:00:55.455 shnurple App[9365:c07] Unlimited access to network resources
+2014-07-07 14:00:55.463 shnurple App[9365:c07] [CDVTimer][keyboard] 0.066996ms
+2014-07-07 14:00:55.464 shnurple App[9365:c07] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-07 14:00:55.464 shnurple App[9365:c07] [CDVTimer][statusbar] 0.309944ms
+2014-07-07 14:00:55.464 shnurple App[9365:c07] [CDVTimer][TotalPluginStartup] 1.254976ms
+2014-07-07 14:00:55.485 shnurple App[9365:c07] Resetting plugins due to page load.
+2014-07-07 14:00:56.593 shnurple App[9365:c07] Finished load of: file:///Users/ericlevin/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/7A511704-4D08-4ADA-B1F5-BC994D193BD1/shnurple%20App.app/www/index.html#/auth/signin
