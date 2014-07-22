@@ -1,4 +1,4 @@
-angular.module('shnurple', ['ionic', 'firebase', 'shnurple.controllers'])
+var shnurpleModule = angular.module('shnurple', ['ionic', 'firebase', 'shnurple.cool'])
 
 .run(function($ionicPlatform, $rootScope, $firebaseAuth, $firebase, $window, $ionicLoading) {
     $ionicPlatform.ready(function() {
@@ -106,7 +106,7 @@ angular.module('shnurple', ['ionic', 'firebase', 'shnurple.controllers'])
             views: {
                 'bucket-explore': {
                     templateUrl: 'templates/explore.html',
-                    controller: 'completedCtrl'
+                    controller: 'peopleCtrl'
                 }
             }
         })

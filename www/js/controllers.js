@@ -1,4 +1,4 @@
-angular.module('shnurple.controllers', [])
+angular.module('shnurple.cool', [])
     .controller('SignInCtrl', [
         '$scope', '$rootScope', '$firebaseAuth', '$window',
         function($scope, $rootScope, $firebaseAuth, $window) {

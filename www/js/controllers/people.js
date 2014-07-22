@@ -1,13 +1,13 @@
-angular.module('shnurple.controllers', [])
-  .controller('PeopleCtrl', ['$scope',
+shnurpleModule
+  .controller('peopleCtrl', ['$scope',
     function($scope) {
-      var people = {
+      $scope.people = [
         {
           name: "eric"
         }, 
         {
           name: "robert"
         }
-      }
+      ]
     }
   ])
