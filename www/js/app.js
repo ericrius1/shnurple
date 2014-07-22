@@ -101,10 +101,10 @@ angular.module('shnurple', ['ionic', 'firebase', 'shnurple.controllers'])
                 }
             }
         })
-        .state('bucket.completed', {
-            url: '/completed',
+        .state('bucket.explore', {
+            url: '/explore',
             views: {
-                'bucket-completed': {
+                'bucket-explore': {
                     templateUrl: 'templates/explore.html',
                     controller: 'completedCtrl'
                 }
